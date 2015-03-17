@@ -3,7 +3,7 @@ Project
 
 Stephan Brady - New Balcony
 
-
+![](https://raw.githubusercontent.com/OpeningDesign/Stephan_Brady_Balcony/9b51dd539c6e1435c7c9d723da14a6c2b4e95d7b/Transfer/20150311_%20updated%20design/SB_Balcony.rvt_2015-Mar-11_02-36-35PM-000_Perspective_-_Caf%C3%A9_Balcony_2.png)
 ============
 ####In-the-Open
 
